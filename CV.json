@@ -1,0 +1,21 @@
+{
+"FirstName":"Margarita",
+"LastName":"Kunitsa",
+"Email":"margaret.kotova@gmail.com",
+"DateOfBirth":"27/05/1999",
+"Education": 
+{
+  "Year":"2016-2020",
+  "University":"Belarusian State University",
+  "Speciality":"Economist"
+},
+"Work":
+{
+  "Year":"2020-till now",
+  "Profession":"QA Engineer"
+},
+"HardSkills":["Jira","Git","Confluence","Postman","SQL","HTML","TestRail"],
+"SoftSkills":["persistence","desire to learn","teamwork"],
+"Courses":"BelHard",
+"Hobbies":["painting","swimming","traveling","skiing"],
+}
